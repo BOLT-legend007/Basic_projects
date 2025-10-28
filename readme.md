@@ -1,0 +1,1 @@
+#Making some project while learning python.It is meant to be streamlining my projects till intermediate level
